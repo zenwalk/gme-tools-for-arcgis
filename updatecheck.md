@@ -1,0 +1,1 @@
+{"isActive":true,"versions":[{"ArcGISVersionMajor":10,"ArcGISVersionMinor":0,"AddinInstallationURI":"https://docs.google.com/a/google.com/file/d/0Bxwuwm7KMscJTTEtdnZIVXJFXzA/edit	","AddinInstallationDate":"Jul 11, 2012 12:00:00 AM","AddinInstallationVersion":"0.10.1.37988","cl":"Initial TT"}]}
